@@ -1,6 +1,8 @@
 # Alessio Filippi
 
-Computer science student. I like turning data into predictions: sports, blockchains, probabilistic models.
+First-year MSc student in **Cybersecurity** at Politecnico di Torino, with a BSc in **Mathematics** from the University of Pisa.
+
+I enjoy building models that turn data into predictions (sports, blockchains, probabilistic inference) and digging into how systems behave under attack.
 
 ## Projects
 
